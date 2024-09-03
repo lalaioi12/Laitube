@@ -1,0 +1,35 @@
+body  {
+ color: aqua;
+ background: #913a89;
+ margin 0px;
+    }
+header{
+    border-bottom: solid 2px aqua;
+
+}
+ 
+header{
+padding: 7px;
+font-size: 23px ;
+color: rbg(#913a89,aqua, rgb(74,  1,  103);
+}
+
+section{    
+background-color: blueviolet;
+padding-bottom: 88px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+
+
+}
+
+chamada-texto{
+margin-right: 20px;
+
+}
+
+
+
+
